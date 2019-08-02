@@ -9,5 +9,5 @@ type: page
 ---
 
 - [Email](mailto:kevinywlui@gmail.com)
-- [Github.com](http://github.com/kevinywlui)
+- [Github.com](https://github.com/kevinywlui)
 - [Linkedin](https://www.linkedin.com/in/kevin-lui-2601aa183/)

@@ -6,7 +6,7 @@ tags: ["sagemath", "git", "trac"]
 ---
 
 For my first post, I'll explain how to begin developing for
-[Sagemath](http://sagemath.org). This post is essentially a
+[Sagemath](https://sagemath.org). This post is essentially a
 [gist](https://gist.github.com/kevinywlui/6c494f8dbbb2c667d07fc101e8d3b19c/)
 that I shared with members of the UW Sage Seminar. This is a short version of
 the official guide.
