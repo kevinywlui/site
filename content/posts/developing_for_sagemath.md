@@ -1,7 +1,7 @@
 ---
 title: "Developing for Sagemath"
 date: 2019-08-01T16:22:11-07:00
-draft: true
+draft: false
 tags: ["sagemath", "git", "trac"]
 ---
 
