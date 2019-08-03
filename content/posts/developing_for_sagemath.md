@@ -2,7 +2,7 @@
 title: "Developing for Sagemath"
 date: 2019-08-01T16:22:11-07:00
 draft: false
-tags: ["sagemath", "git", "trac"]
+tags: ["sagemath", "git", "trac", "computer"]
 ---
 
 For my first post, I'll explain how to begin developing for
