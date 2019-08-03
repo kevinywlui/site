@@ -20,7 +20,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "math nerd"
+description = "a math, computer nerd"
 title404 = "Nothing's here!"
 
 [params.assets]
