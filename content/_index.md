@@ -11,4 +11,4 @@ was in computational number theory. In particular, I was interested in
 algorithms for computing rational torsion points and isogeny classes of modular
 abelian varieties.
 
-Currently, I am seeking a software engineering job!
+Currently on the job market.
