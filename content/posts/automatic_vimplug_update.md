@@ -18,7 +18,7 @@ I save the following as `~/bin/vimplug_update`.
 #! bash
 vim_cmd="nvim"
 BACKUP_DIR="$HOME/.vimplug_snapshots"
-BACKUP_FILE="$BACKUP_DIR/snapshot_$(date +"%Y-%m-%d-%H%M%S")"
+BACKUP_FILE="$BACKUP_DIR/snapshot_$(date +"%Y-%m-%d-%H%M%S").vim"
 
 mkdir -p "$BACKUP_DIR"
 
@@ -27,4 +27,7 @@ $vim_cmd +PlugUpdate +qa
 {{< /highlight >}}
 
 Then I set a daily cron job by running `crontab -e` and writing
-`@daily ~/bin/vimplug_update`.
+`@daily ~/bin/vimplug_update`. If I ever have to restore my settings, I run
+```
+vim -S snapshot_2019-08-05-085852.vim
+```
