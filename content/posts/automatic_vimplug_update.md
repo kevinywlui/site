@@ -15,7 +15,7 @@ automatically but I don't want to suddenly have a broken vim setup. Luckily,
 
 I save the following as `~/bin/vimplug_update`.
 {{< highlight bash>}}
-#! bash
+#! /usr/bin/env bash
 vim_cmd="nvim"
 BACKUP_DIR="$HOME/.vimplug_snapshots"
 BACKUP_FILE="$BACKUP_DIR/snapshot_$(date +"%Y-%m-%d-%H%M%S").vim"
