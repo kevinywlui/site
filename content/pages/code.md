@@ -16,7 +16,7 @@ Sagemath library is primarily written in Python and Cython. Most of my
 contributions are written in Python.
 
 - [Tickets
-  authored](https://trac.sagemath.org/query?author=~Kevin+Lui&max=0&col=id&col=summary&col=reporter&col=status&col=owner&col=type&col=priority&order=id)
+  authored](https://trac.sagemath.org/query?author=~Kevin+Lui&group=component&max=0&col=id&col=summary&col=owner&col=type&col=status&col=priority&col=reporter&order=id)
 - [Tickets
   reviewed](https://trac.sagemath.org/query?reviewer=~Kevin+Lui&group=component&max=0&col=id&col=summary&col=owner&col=type&col=status&col=priority&col=reporter&order=id)
 
@@ -34,8 +34,15 @@ Sagemath.
 
 ##### Isomorphic Testing
 
-As part of my thesis, I needed to implemented isomorphic testing of modular
-abelian varieties. The algorithm is
+As part of my thesis, I enumerated the isogeny class of simple modular abelian
+varieties, up to isomorphism. Informally, two objects in mathematics are
+isomorphic if they're effectively the same. A necessary step in my enumeration
+is then to be able to determine when two simple modular abelian varieties are
+isomorphic. The key idea is use the fact that endomorphism rings of simple
+modular abelian varieties are isomorphic to orders of number field to reduce
+isomorphic testing to solving norm equations. I've implemented this
+functionality and have submitted a
+[ticket](https://trac.sagemath.org/ticket/28275).
 
 ---
 
