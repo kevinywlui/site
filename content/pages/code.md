@@ -61,6 +61,14 @@ writing `caleb` was to learn making a `pip` installable package, using
 
 ---
 
+# zlong_alert.zsh
+
+`zlong_alert.zsh` (<https://github.com/kevinywlui/zlong_alert.zsh>) is a zsh
+plugin to alert you upon the completion of long-running commands. It began with
+this blog post: <https://kevinlui.org/posts/alerting_long_commands_in_zsh/>.
+
+---
+
 # oeiswall
 
 `oeiswall` (<https://github.com/kevinywlui/oeiswall>) is a quick little Python
