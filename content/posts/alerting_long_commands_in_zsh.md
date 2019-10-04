@@ -4,6 +4,9 @@ date: 2019-08-31T19:35:54-07:00
 draft: false
 ---
 
+Update (2019-10-03): I fleshed this out into a plugin! Check it out
+<https://github.com/kevinywlui/zlong_alert.zsh>!
+
 I often find myself running commands that take a long time and then coming back
 to it later. For example, when I'm running a long computation for my research
 or when I'm building a package. I recently discovered this [zbell
