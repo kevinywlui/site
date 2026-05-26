@@ -35,7 +35,6 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 prefix = ""
 holder = "Kevin Lui"
 startYear = "2019"
-endYear = "2026"
 suffix = ""
 
 [params.settings]
