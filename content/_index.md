@@ -14,3 +14,4 @@ Misc tools built for myself.
 
 - [Sunsight](https://sunsight.kevinlui.org) — solar declination calculator
 - [Loaf Calc](https://sourdough.kevinlui.org) — sourdough recipe calculator
+- [Root Quest](https://word-roots.kevinlui.org) — Latin and Greek word roots trainer
