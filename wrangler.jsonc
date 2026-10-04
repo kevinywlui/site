@@ -1,7 +1,7 @@
 {
   "name": "site",
   "compatibility_date": "2026-10-04",
-  // Static-only Worker: serve Hugo's build output, no script.
+  // Static-only Worker: serve public/ as-is, no build step, no script.
   "assets": {
     "directory": "./public",
     "not_found_handling": "404-page"
