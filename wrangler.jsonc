@@ -1,0 +1,11 @@
+{
+  "name": "site",
+  "compatibility_date": "2026-10-04",
+  // Static-only Worker: serve Hugo's build output, no script.
+  "assets": {
+    "directory": "./public",
+    "not_found_handling": "404-page"
+  }
+  // Add after verifying the workers.dev deploy, at domain cutover:
+  // "routes": [{ "pattern": "kevinlui.org", "custom_domain": true }]
+}
